@@ -1,0 +1,2 @@
+# asgn1-ScalaTutorial
+Hey I'm Braeden Rose, and if you're reading this, I need your help. This is a repo dedicated to practicing Scala and testing out junky code that is relevant for my upcoming summer opportunities. In addition to revitalizing my hackability, this projects seeks to learn all of the semantic nuances and concepts in Scala, so if you see an error that turn into a teaching point I'd be overjoyed to have your input. Or don't. Steve Jobs would have.
